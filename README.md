@@ -1,9 +1,9 @@
 ### Hi there 👋, 😎 Rax is me
 #### 👉前端工程師往全端邁進
 
-Skills: 🚀 VUE JS / REACT / JS / HTML / CSS / HEROKU 
+Skills: 🚀 / REACT /Node js /JS / HTML / CSS / HEROKU / Wepack /
 
-- 🌱 I’m currently learning CSS特殊技巧  後端串接 🔨🧲 
+- 🌱 I’m currently learning CSS特殊技巧  CI/CD 🔨🧲 
 - ⚡ Fun fact: 喜愛攝影📸🖌  美術   
 
 
