@@ -1,5 +1,3 @@
-![image](https://github.com/RaxCruz/ReadMe/blob/main/banner_2.png?raw=true)
-
 # About ❤❤
 ### Hi there 👋, 😎 Rax is me
 #### 👉前端工程師
@@ -55,3 +53,6 @@
    <img align="left"  width="20%" src="https://github.com/RaxCruz/ReadMe/blob/main/009.png?raw=true">
 </p>
 
+---
+
+![image](https://github.com/RaxCruz/ReadMe/blob/main/banner_2.png?raw=true)
