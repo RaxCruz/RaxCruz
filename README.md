@@ -7,6 +7,7 @@
 
 # My Project 🧡🧡
 
+![image](https://github.com/RaxCruz/ReadMe/blob/main/Calculation.PNG?raw=true)
 
 
 # My NFT 💚💚
